@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.AssemblyInfo.cs
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.exe
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.deps.json
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.runtimeconfig.json
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.runtimeconfig.dev.json
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.dll
+\\Mac\Home\Desktop\homeworks\task22\task22\bin\Debug\netcoreapp3.1\task22.pdb
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.dll
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.pdb
+\\Mac\Home\Desktop\homeworks\task22\task22\obj\Debug\netcoreapp3.1\task22.genruntimeconfig.cache
